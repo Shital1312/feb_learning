@@ -1,0 +1,6 @@
+Hello
+This is a new file.
+This is a txt file.
+We are create this file for practice.
+You can use 'a' and update your data in your txt file.
+Thank you
