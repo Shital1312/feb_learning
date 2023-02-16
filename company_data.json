@@ -1,0 +1,53 @@
+{
+    "company_name": "Infosys",
+    "Employees": {
+        "E101": {
+            "Name": "Ravi",
+            "salary": 30000,
+            "Age": 30,
+            "Bank_Name": "Bank of Maharashtra",
+            "Account_Number": 444444444,
+            "City": "Delhi"
+        },
+        "E102": {
+            "Name": "Om",
+            "salary": 20000,
+            "Age": 32,
+            "Bank_Name": "Bank of India",
+            "Account_Number": 44422289,
+            "City": "Pune"
+        },
+        "E103": {
+            "Name": "Siya",
+            "salary": 22000,
+            "Age": 28,
+            "Bank_Name": "Bank of Maharashtra",
+            "Account_Number": 44422289,
+            "City": "Pune"
+        },
+        "E104": {
+            "Name": "Raj",
+            "salary": 15000,
+            "Age": 30,
+            "Bank_Name": "Bank of India",
+            "Account_Number": 4222223289,
+            "City": "Delhi"
+        },
+        "E105": {
+            "Name": "Sai",
+            "salary": 21000,
+            "Age": 27,
+            "Bank_Name": "Bank of Maharashtra",
+            "Account_Number": 42322289,
+            "City": "Pune"
+        },
+        "E106": {
+            "Name": "Priya",
+            "salary": 35000,
+            "Age": 30,
+            "Bank_Name": "Bank of India",
+            "Account_Number": 4342223289,
+            "City": "Delhi"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "Age": 23,
+    "City": "Pune",
+    "Is_married": false,
+    "Name": "Raj",
+    "Number": 345567788,
+    "Subject": [
+        "Computer science",
+        "Arts",
+        "Commerce"
+    ]
+}
